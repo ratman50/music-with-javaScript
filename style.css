@@ -1,0 +1,27 @@
+body
+{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    border:none;
+    list-style: none;
+    outline:none;
+    box-sizing:border-box;
+}
+
+button
+{
+    padding: 1em;
+    font-size: 1.2em;
+    font-weight: bolder;
+    margin: 0.5em;
+    cursor: pointer;
+}
+.music-container
+{
+    width: 100vw;
+    height:100vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
